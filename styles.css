@@ -1,0 +1,17 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+    background-color: #7413dc;
+    color: #ffffff;
+  }
+
+  .header {
+      margin-top: 1em;
+  }
+
+  .header a {
+      color: #ffffff;
+  }
+
+  #video {
+    object-fit: cover;
+  }
